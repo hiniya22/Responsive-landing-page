@@ -35,7 +35,11 @@ Built with *HTML, CSS, JavaScript, and Bootstrap* to ensure a clean UI, smooth a
 ├── script.js
 ├── images/
 └── README.md
-----
+---
+
+
+
+
 ## Installation & Setup
 
 1. Clone the repository
