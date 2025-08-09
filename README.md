@@ -36,7 +36,7 @@ Built with *HTML, CSS, JavaScript, and Bootstrap* to ensure a clean UI, smooth a
 ├── images/
 └── README.md
 ----
-⚙ Installation & Setup
+## Installation & Setup
 
 1. Clone the repository
 
@@ -58,7 +58,7 @@ Just open index.html in your browser.
 
 ---
 
-📸 Screenshots
+##📸 Screenshots
 
 Desktop View
 
@@ -71,7 +71,7 @@ Mobile View
 https://res.cloudinary.com/dethm1ien/image/upload/v1754700125/Screenshot_2025-08-09_061136_orulgl.png
 
 ---
-LICENCE
+##LICENCE
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
