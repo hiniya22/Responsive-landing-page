@@ -6,7 +6,7 @@ Built with *HTML, CSS, JavaScript, and Bootstrap* to ensure a clean UI, smooth a
 ---
 
 ## 🚀 Live Demo
-[View Demo](https://your-github-username.github.io/responsive-landing-page/)
+[View Demo](https://hiniya22.github.io/Responsive-landing-page/)
 
 ---
 
@@ -21,8 +21,8 @@ Built with *HTML, CSS, JavaScript, and Bootstrap* to ensure a clean UI, smooth a
 ---
 
 ## 🛠 Tech Stack
-- *HTML5* – Structure of the web page  
-- *CSS3* – Styling and animations  
+- *HTML* – Structure of the web page  
+- *CSS* – Styling and animations  
 - *JavaScript (ES6)* – Interactive features and DOM manipulation  
 - *Bootstrap 5* – Responsive design & components  
 
@@ -35,3 +35,66 @@ Built with *HTML, CSS, JavaScript, and Bootstrap* to ensure a clean UI, smooth a
 ├── script.js
 ├── images/
 └── README.md
+----
+⚙ Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/your-github-username/responsive-landing-page.git
+
+
+2. Navigate into the project folder
+
+cd responsive-landing-page
+
+
+3. Open the project
+
+Just open index.html in your browser.
+
+
+
+
+
+---
+
+📸 Screenshots
+
+Desktop View
+
+https://res.cloudinary.com/dethm1ien/image/upload/v1754700026/Screenshot_2025-08-09_060547_susllv.png
+
+
+Mobile View
+
+
+https://res.cloudinary.com/dethm1ien/image/upload/v1754700125/Screenshot_2025-08-09_061136_orulgl.png
+
+---
+LICENCE
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+-----
+
